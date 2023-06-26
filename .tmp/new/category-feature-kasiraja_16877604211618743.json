@@ -1,0 +1,178 @@
+[
+    {
+        "keyword": "Feature",
+        "type": "feature",
+        "description": "",
+        "line": 1,
+        "name": "Category Feature kasirAja",
+        "uri": "D:\\bootcamp-sandbercode\\tugaspekan6qa\\features\\Category.feature",
+        "tags": [],
+        "elements": [
+            {
+                "keyword": "Scenario",
+                "type": "scenario",
+                "description": "",
+                "name": "Add New Category",
+                "tags": [],
+                "id": "category-feature-kasirajaadd-new-category",
+                "steps": [
+                    {
+                        "arguments": [],
+                        "keyword": "Before",
+                        "name": "",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "Given",
+                        "name": "Website homepage",
+                        "result": {
+                            "status": "passed",
+                            "duration": 3386000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input alami4238@gmail.com and 1234567890",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1802000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click login button",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1446000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click menu kategori",
+                        "result": {
+                            "status": "passed",
+                            "duration": 299000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click button tambah",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1425000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input nama: Mineral",
+                        "result": {
+                            "status": "passed",
+                            "duration": 293000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input deskripsi: Air_Minum",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1358000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click button simpan",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1274000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "Then",
+                        "name": "User should see kategori page kasirAja",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1029000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "After",
+                        "name": "",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    }
+                ]
+            }
+        ],
+        "id": "category-feature-kasiraja",
+        "metadata": {
+            "browser": {
+                "name": "chrome",
+                "version": "114.0.5735.134"
+            },
+            "device": "Device name not known",
+            "platform": {
+                "name": "windows",
+                "version": "Version not known"
+            }
+        }
+    }
+]

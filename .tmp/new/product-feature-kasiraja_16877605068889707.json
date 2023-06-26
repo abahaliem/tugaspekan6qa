@@ -1,0 +1,256 @@
+[
+    {
+        "keyword": "Feature",
+        "type": "feature",
+        "description": "",
+        "line": 1,
+        "name": "Product Feature kasirAja",
+        "uri": "D:\\bootcamp-sandbercode\\tugaspekan6qa\\features\\product.feature",
+        "tags": [],
+        "elements": [
+            {
+                "keyword": "Scenario",
+                "type": "scenario",
+                "description": "",
+                "name": "Add New Product",
+                "tags": [],
+                "id": "product-feature-kasirajaadd-new-product",
+                "steps": [
+                    {
+                        "arguments": [],
+                        "keyword": "Before",
+                        "name": "",
+                        "result": {
+                            "status": "passed",
+                            "duration": 2000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "Given",
+                        "name": "Website homepage",
+                        "result": {
+                            "status": "passed",
+                            "duration": 3321000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input alami4238@gmail.com and 1234567890",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1660000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click login button",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1334000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click menu produk",
+                        "result": {
+                            "status": "passed",
+                            "duration": 233000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click button tambah",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1443000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input kode: LM01",
+                        "result": {
+                            "status": "passed",
+                            "duration": 267000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input nama: Lemineral",
+                        "result": {
+                            "status": "passed",
+                            "duration": 385000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input deskripsi: Air Galon",
+                        "result": {
+                            "status": "passed",
+                            "duration": 356000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input harga beli: 18000",
+                        "result": {
+                            "status": "passed",
+                            "duration": 385000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input harga jual: 20000",
+                        "result": {
+                            "status": "passed",
+                            "duration": 464000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User input stok: 20",
+                        "result": {
+                            "status": "passed",
+                            "duration": 358000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click field kategori",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1338000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click kategori: Mineral",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1171000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "When",
+                        "name": "User click button simpan",
+                        "result": {
+                            "status": "passed",
+                            "duration": 2177000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "Then",
+                        "name": "User should see produk page kasirAja",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1071000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    },
+                    {
+                        "arguments": [],
+                        "keyword": "After",
+                        "name": "",
+                        "result": {
+                            "status": "passed",
+                            "duration": 1000000
+                        },
+                        "line": null,
+                        "match": {
+                            "location": "can not be determined with webdriver.io"
+                        }
+                    }
+                ]
+            }
+        ],
+        "id": "product-feature-kasiraja",
+        "metadata": {
+            "browser": {
+                "name": "chrome",
+                "version": "114.0.5735.134"
+            },
+            "device": "Device name not known",
+            "platform": {
+                "name": "windows",
+                "version": "Version not known"
+            }
+        }
+    }
+]
